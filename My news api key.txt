@@ -1,0 +1,3 @@
+My news api key
+
+5c9560887367452baea9fd3b19fb1ac3
